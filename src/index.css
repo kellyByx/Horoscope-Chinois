@@ -1,0 +1,9 @@
+@import "tailwindcss/dist/tailwind.css";
+body {
+  margin: 1%;
+}
+img {
+  display: block;
+  width: 100%;
+  padding: 8%;
+}
